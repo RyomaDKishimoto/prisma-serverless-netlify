@@ -1,0 +1,9 @@
+html,
+body {
+  font-family: 'Helvetica Neue', arial, sans-serif;
+}
+button,
+label {
+  display: block;
+  margin-top: 1rem;
+}
